@@ -80,16 +80,16 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6282134249142', 'Xd', true],
+['6285217513238', 'zxdream', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285936573932'
-global.nomorown = '6285936573932'
+global.nomorbot = '6282134249142'
+global.nomorown = '6282134249142'
 global.nomorown1 = '6285936573932'
 global.nomorown2 = '6285217513238'
-global.nomorwa = '6285936573932'
+global.nomorwa = '6282134249142'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
